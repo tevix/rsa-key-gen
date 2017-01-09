@@ -13,7 +13,7 @@ Install
 ----------
 Once you have installed NodeJS on your system, you can download and install this tool with the following command:
 
-``` npm install rsaKeyGenerator ```
+``` npm install rsa-key-generator ```
 
 
 Usage
