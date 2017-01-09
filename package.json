@@ -1,0 +1,11 @@
+{
+  "name": "rsaKeyGenerator",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "node generate"
+  },
+  "dependencies": {
+    "keypair": "^1.0.1"
+  }
+}
