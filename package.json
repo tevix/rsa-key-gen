@@ -7,7 +7,7 @@
     "url": "https://github.com/tevix/rsa-key-gen.git"
   },
   "bin": {
-    "filesearch": "generate.js"
+    "generate-key": "generate.js"
   },
   "scripts": {
     "start": "node generate"

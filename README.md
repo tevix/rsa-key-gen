@@ -9,18 +9,14 @@ This tool generates a RSA PEM key pair ready to be used
 >https://nodejs.org/en/download/
 
 
-Install
+Install & Usage
 ----------
 Once you have installed NodeJS on your system, you can download and install this tool with the following command:
 
 ``` npm install rsa-key-generator ```
 
+Now, ```cd node_modules ``` and ``` cd rsa-key-generator ``` then run the command ```node generate```;
 
-Usage
-----------
-Open a console or terminal and write the following command:
-
-```node generate```
 
 The tool will generate two .pem file one for the public and one for the private in the current directory:
 
